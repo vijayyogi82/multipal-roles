@@ -1,10 +1,13 @@
 # multipal-roles
 
 # normal user
-user@user.com
+email:     user@user.com
+password:  123456 
 
 # admin user
-admin@admin.com
+email:     admin@admin.com
+password:  123456 
 
 # manager user
-manager@manager.com
+email:     manager@manager.com
+password:  123456 
